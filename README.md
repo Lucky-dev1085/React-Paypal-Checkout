@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/IMEF-FEMI/React-Paypal-Checkout.git
+git clone https://github.com/Lucky-dev1085/React-Paypal-Checkout.git
 npm i && npm start
 ```
 
@@ -19,7 +19,3 @@ You can sign up [here](https://developer.paypal.com/developer/applications/).  A
 ```
 
 That is it for the setup!
-
-### Issues
-
-Something not working?  Please [open an issue](https://github.com/IMEF-FEMI/Twitter-Status-Updater/issues)
