@@ -5,7 +5,7 @@ import Car from "../assets/img/car.jpg";
 import Spinner from "./Spinner";
 
 const CLIENT = {
-  sandbox:"your sandbox id",
+  sandbox:"AflSpGHtYGGDcRgoJeN5jUZOipLBeceAsQ7U1nmEr5SRgI1EVi1x2ShhLehfNaOaqx45Qchd4k0wlPWV",
   production:"your client id"
 };
 
